@@ -1,16 +1,16 @@
-# jurnal-financiar-student
+jurnal-financiar-student
 
 A simple application for tracking students' income and expenses.
 
-## Features
+Features
 - Adding income  
 - Adding expenses  
 - Displaying the balance  
 - Generating reports  
 - Charts and statistics  
 
-## Technologies
+Technologies
 Figma (UI), Python/C++ (logic), GitHub (version control)
 
-## Authors
+Authors
 Cepovskaia Sveta, p-2424r
