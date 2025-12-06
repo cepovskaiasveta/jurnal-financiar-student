@@ -1,16 +1,38 @@
-jurnal-financiar-student
+# Финансовый журнал для студентов
 
-A simple application for tracking students' income and expenses.
+## Описание
+Приложение предназначено для ведения личного финансового учета студентами.  
+Пользователи: обычный студент и администратор (для управления контентом и статистикой).
 
-Features
-- Adding income  
-- Adding expenses  
-- Displaying the balance  
-- Generating reports  
-- Charts and statistics  
+## Цели проекта
+- Ведение доходов и расходов  
+- Планирование бюджета  
+- Отчеты и статистика по финансовым категориям  
+- Уведомления о важных платежах и сроках  
 
-Technologies
-Figma (UI), Python/C++ (logic), GitHub (version control)
+## Используемые технологии
+- Figma – прототип интерфейса  
+- Git/GitHub – контроль версий  
+- Excel / SQLite – хранение данных  
+- Flutter / React Native / Web-приложение – реализация интерфейса  
 
-Authors
-Cepovskaia Sveta, p-2424r
+## Модули
+- Управление пользователями  
+- Ведение доходов и расходов  
+- Планирование бюджета  
+- Уведомления и напоминания  
+- Генерация отчетов и графиков  
+
+## Документация
+- SRS: функциональные и нефункциональные требования  
+- UML: Use Case и Activity диаграммы  
+- Прототип Figma  
+
+## Прототип и ссылки
+- [Прототип Figma]([https://www.figma.com](https://www.figma.com/design/s2wbrYGcWmikCK295cINnP/Untitled?node-id=0-1&p=f&m=draw))  
+- [GitHub репозиторий]([https://github.com/твой-репозиторий](https://github.com/cepovskaiasveta/jurnal-financiar-student))  
+
+## Запуск проекта
+1. Клонировать репозиторий:
+   ```bash
+   git clone https://github.com/твой-репозиторий.git
