@@ -32,7 +32,4 @@
 - [Прототип Figma]([https://www.figma.com](https://www.figma.com/design/s2wbrYGcWmikCK295cINnP/Untitled?node-id=0-1&p=f&m=draw))  
 - [GitHub репозиторий]([https://github.com/твой-репозиторий](https://github.com/cepovskaiasveta/jurnal-financiar-student))  
 
-## Запуск проекта
-1. Клонировать репозиторий:
-   ```bash
-   git clone https://github.com/твой-репозиторий.git
+
